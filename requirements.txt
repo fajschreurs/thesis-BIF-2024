@@ -1,0 +1,6 @@
+requirements for BIF thesis 2024 Femke Schreurs
+
+please install the following:
+
+scipy
+readPTU_FLIM_cropped_500 as to be found in this repository
