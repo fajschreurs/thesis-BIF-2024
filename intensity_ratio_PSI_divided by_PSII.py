@@ -87,7 +87,7 @@ if __name__ == "__main__":
     path = r"your folder with .ptu files.sptw/"
     
     # Define output directory
-    output_dir = r"your output folder for the plot"
+    output_dir = r"your output folder for the csv"
     
     # Call the function to process the intensity ratio
     process_intensity_ratio(path, output_dir)
