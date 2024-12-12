@@ -24,3 +24,14 @@ also be produced. Furthermore the fPSI can be calculated which reflects the PSI 
 - data processing
 - analyse .ptu files
 - Various methods of data visualization
+
+## Structure
+- thesis_BIF_2024/
+│
+├── data/                # Raw data files
+├── src/                 # Source code for data processing and analysis
+├── process_data.py  # Main script for processing data
+├── analyze.py       # Script for generating visualizations
+├── tests/               # Unit tests for various modules
+├── requirements.txt     # Python dependencies
+└── README.md            # This file
